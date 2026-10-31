@@ -1,0 +1,1 @@
+Esta practica consiste en una demostracion del metodo de Montecarlo para obtener pi y de un pequeño programa para obtener el interes compuesto

@@ -31,7 +31,7 @@ public class EstimacionPi
 
 
 // Calculamos la aproximación del valor de Pi usando la fórmula de las instrucciones
-        double estimacionPi = 4.0 * dardosDentro / dardostot;
+        double estimacionPi = 4.0 * dardosDentro / dardosTot;
 
         // Mostramos los resultados finales formateados en la terminal
         System.out.println("|======================================|");

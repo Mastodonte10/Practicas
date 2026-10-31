@@ -18,7 +18,7 @@ public class CotizadorPines {
         double tasaBase = scanner.nextDouble();
         System.out.print("Ingrese el tipo de cliente (P = Preferente, E = Estandar, R = Riesgoso): ");
         char tipoCliente = scanner.next().toUpperCase().charAt(0);
-        // Actividad 2.1: Validación de datos
+        //Validación de datos
     if (prestamo <= 0) {
             System.out.println("\n[ERROR] El monto del prestamo debe ser mayor a cero.");
             scanner.close();
