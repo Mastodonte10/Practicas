@@ -1,0 +1,1 @@
+Este programa es un cotizador de la cabaña del misterio que calcula intereses compuesto y simple mediante un pedido de numero al usuario
